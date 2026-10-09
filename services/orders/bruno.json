@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "checkout-orders",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
